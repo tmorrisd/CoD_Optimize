@@ -1,2 +1,7 @@
-# CoD_Optimize
-Filter best builds for weapons and attachements
+Dependencies
+pip
+dotenv
+tesserect
+ocr
+
+files names have no spaces, due to current image processing imitations, this is a must. 
